@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:fffddb,100:fdcef3&height=240&text=hyezuu⛄&animation=fadeIn&fontColor=918888&fontSize=60" />
-    </div>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/hyezuu"
+  width="1000"
+  height="300"
+/>
+</a>
+  
+</div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div>
@@ -38,7 +46,10 @@ Here are some ideas to get you started:
     <div align= "center">  </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=hyezuu&bg_color=180,f9f7e1,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyezuu&layout=compact&bg_color=180,f9f7e1,00000000&title_color=000000&text_color=000000"
-           /> </div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+        <div align= "center"> 
+            <img src="https://github-readme-stats.vercel.app/api?username=hyezuu&bg_color=180,f9f7e1,00000000&title_color=000000&text_color=000000" /> 
+        <br> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyezuu&layout=compact&bg_color=180,f9f7e1,00000000&title_color=000000&text_color=000000"/> 
+        </div>
     </div>
