@@ -10,11 +10,9 @@
 
 ### 📫 Contact
 <a href="https://blog.naver.com/hyezuuu">
-  <img src="https://img.shields.io/badge/Tech Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-</a>
+ <img src="https://img.shields.io/badge/Tech Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="mailto:duudu0704@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br>
 
 #
