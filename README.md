@@ -3,8 +3,12 @@
 # Hi there! 👋 I'm Hyezuu
 ### Backend Developer from South Korea 🇰🇷
 
-<a href="https://github.com/devxb/gitanimals">
-   <img src="https://render.gitanimals.org/farms/hyezuu" width="600"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyezuu&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hyezuu"
+  width="600"
+  height="300"
+/>
 </a>
 
 ### 🛠️ Tech Stack
@@ -41,7 +45,7 @@
 
 ### 📊 GitHub Stats
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=hyezuu&show_icons=true&theme=buefy" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyezuu&layout=compact&theme=buefy" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hyezuu&show_icons=true&theme=omni" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyezuu&layout=compact&theme=omni" height="170"/>
 
 </div>
