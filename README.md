@@ -11,14 +11,13 @@
 ### 📫 Contact
 <div align="center">
  <a href="https://blog.naver.com/hyezuuu">
-   <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
  <a href="https://balsam-whimsey-5e7.notion.site/TIL-7c1dec2a0f61473aa93a4ee9811243e8?pvs=74">
-   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
  <a href="https://velog.io/@hyezuu/posts">
-   <img src="https://img.shields.io/badge/Velog(이사중!)-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Velog(이사중!)-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
-
-## 
+<br>
 
 ### 🛠️ Tech Stack
 <p>
