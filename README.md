@@ -34,7 +34,6 @@
 #
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=hyezuu&show_icons=true&theme=omni" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyezuu&layout=compact&theme=omni" height="170"/>
+
 <br>
 </div>
